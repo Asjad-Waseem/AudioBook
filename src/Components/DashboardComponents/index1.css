@@ -1,0 +1,381 @@
+@import '~antd/dist/antd.css';
+
+:host ::ng-deep .ant-menu.ant-menu-light .ant-menu-item-selected {
+  border-bottom-color: #4a235a;
+}
+
+.sider {
+
+     width: 20px;
+
+}
+
+.ant-layout-sider ant-layout-sider-light ant-layout-sider-collapsed sider {
+
+  width: 10px;
+
+}
+
+.SiderItemsBackGround {
+
+  background: linear-gradient(90deg, rgba(16, 85, 152, 0.150034) -97.53%, rgba(74, 144, 226, 3e-05) 100%);
+  
+}
+
+
+.class {
+
+  font-family: AvenirNext;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: -0.0777778px;
+  
+  color: #616161;
+
+}
+
+.HeaderLogo {
+
+  left: 2.55%;
+  right: 82.17%;
+  top: 30.77%;
+  bottom: 33.73%;
+
+  background: url('../../Assets/Images/Rectangle.png');
+
+}
+
+.logo {
+    height: 32px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+  }
+
+  .logo square {
+
+   position: absolute;
+   left: 0%;
+   right: 79.62%;
+   top: 7.69%;
+   bottom: 10.26%;
+
+   border: 1.5px solid #3D68A4;
+   border-radius: 6px;
+
+  }
+  
+  .site-layout .site-layout-background {
+
+  background: white;
+  
+  }
+
+  .Dashboard {
+
+   font-family: Futura;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 16px;
+
+   color: #222222;
+
+  }
+
+.Credits {
+
+/*position: absolute;
+/*font-family: AvenirNext;
+font-size: 14px;
+letter-spacing: -0.0777778px;
+
+color: #616161; */
+
+/* height: 38px; */
+/* left: 32.48%;
+right: 23.57%; */
+/* top: calc(50% - 38px/2 - 0.5px); */
+
+/* font-family: AvenirNext;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: -0.0777778px;
+
+color: #616161; */
+
+
+
+
+
+
+
+
+
+
+
+
+
+padding-top: 17px;
+
+font-family: AvenirNext;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: -0.0777778px;
+
+color: #616161;
+
+}
+
+.collapsed-one {
+
+position: absolute;
+height: 36px;
+margin-left: 105px;
+margin-top: -65px;
+
+
+font-family: AvenirNext;
+font-size: 36px;
+
+/* identical to box height, or 100%  */
+
+text-align: center;
+
+color: #000000; 
+
+/* position: absolute;
+margin-left: 2rem; */
+
+}
+
+.one {
+
+position: absolute;
+height: 36px;
+margin-left: 100px;
+margin-top: -65px;
+
+
+font-family: AvenirNext;
+font-size: 36px;
+
+/* identical to box height, or 100%  */
+
+text-align: center;
+
+color: #000000; 
+
+/* position: absolute;
+margin-left: 2rem; */
+
+}
+
+.MyAccount {
+
+/*position: absolute;*/
+/*margin-left: 5rem;*/
+
+
+line-height: 0px;
+font-family: Avenir;
+font-style: normal;
+float: right;
+margin-right: -30px;
+margin-top: -30px;
+
+
+color: #222222;
+}
+
+.ConfirmedReviews {
+
+box-shadow: 0px 0px 0px 1px rgba(63, 63, 68, 0.05), 0px 1px 3px rgba(63, 63, 68, 0.15);
+border-radius: 7px;
+font-family: HelveticaNeue;
+font-size: 16px;
+font-weight: bold;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+
+.requiresReview {
+
+box-shadow: 0px 1px 3px rgba(63, 63, 68, 0.15), 0px 0px 0px 1px rgba(63, 63, 68, 0.05);
+border-radius: 4px;
+font-family: HelveticaNeue;
+font-weight: 500;
+font-size: 16px;
+/* identical to box height */
+
+color: #000000;
+
+}
+
+.divider {
+
+width: 2px;
+height: 100px;
+
+border: 1px solid #E9E9E9;
+
+}
+
+.horizontalDivider {
+
+border: 1px solid #E9E9E9;
+
+}
+
+.Divider {
+
+border: 1px solid #EFEFEF;
+
+}
+
+.Numbers {
+
+font-weight: bold;  
+font-family: HelveticaNeue;
+font-size: 50px;
+text-transform: uppercase;
+
+color: #000000;
+
+}
+
+.RequiresReview {
+
+font-family: AvenirNext;
+font-size: 18px;
+letter-spacing: -0.1px;
+
+color: #F92C2C;
+
+}
+
+.Pending {
+
+font-family: AvenirNext;
+font-size: 18px;
+letter-spacing: -0.1px;
+
+color: #222222;
+
+}
+
+.DaysRemaining {
+
+  /* font-family: AvenirNext;
+  font-size: 18px;
+  height: 40px; 
+  margin-top: -40px;
+  top: calc(50% - 40px/2 + 106px); */
+
+
+  margin-top: -10px;
+
+
+
+  height: 40px; 
+  /* left: 3%; */
+  /* right: 81.27%; */
+  /* top: calc(50% - 40px/2 + 106px); */
+  
+  font-family: AvenirNext;
+  font-size: 18px;
+  line-height: 20px;
+  /* or 111% */
+
+  margin-left: 0px;
+  
+  letter-spacing: -0.1px;
+  
+  color: #222222;
+
+  float: left;    
+
+  /* line-height: 16px;
+    
+  font-family: AvenirNext;
+  font-size: 16px;
+  /* or 111% */
+  
+  /*letter-spacing: -0.1px;
+  
+  color: #222222;
+  float: left; */
+
+}
+
+.Remaining {
+
+  font-family: AvenirNext;
+  font-size: 18px;
+  margin-top: -35px;
+
+}
+
+.DaysCount {
+
+/* font-family: AvenirNext;
+font-size: 32px;
+/* identical to box height, or 62% */
+
+/* letter-spacing: -0.177778px; */
+
+/* color: #222222; */ 
+
+
+
+position: absolute;
+height: 20px;
+margin-top: "90px";
+/* left: 36.67%;
+right: 37.33%; */
+/* top: calc(50% - 20px/2 + 96.5px); */
+
+font-family: AvenirNext;
+font-size: 32px;
+line-height: 20px;
+/* identical to box height, or 62% */
+
+letter-spacing: -0.177778px;
+
+color: #222222;
+
+}
+
+.audiobookrocket-logo {
+
+position: absolute;
+width: 100px;
+height: 40px;
+left: 61px;
+top: 8px;
+
+}
+
+.icons {
+
+  position: absolute;
+height: 20px;
+left: 20%;
+right: 49.6%;
+top: calc(50% - 20px/2 + 0.5px);
+
+font-family: Futura;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #3D68A4;
+}
+
+    /* [data-theme="dark"] .site-layout .site-layout-background {
+      background: #141414;
+    } */

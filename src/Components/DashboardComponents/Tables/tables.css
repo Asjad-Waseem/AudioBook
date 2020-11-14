@@ -1,0 +1,33 @@
+.MODAL{
+
+    background: linear-gradient(180deg, #FFFFFF 0%, #FEFEFE 100%);
+
+}
+
+.MODALTITLE{
+
+margin-top: 30px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 22px;
+/* identical to box height, or 73% */
+
+
+color: #000000;
+
+}
+
+.MODALCHECKBOXES{
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+
+color: #686868;
+
+}
